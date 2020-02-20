@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SequelLesson", "SequelLesson\SequelLesson.csproj", "{11147BFB-18A2-41D2-AD43-FC45208093D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlLibrary", "SqlLibrary\SqlLibrary.csproj", "{FDEC975D-7226-4374-95A3-32F972A6BD6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11147BFB-18A2-41D2-AD43-FC45208093D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11147BFB-18A2-41D2-AD43-FC45208093D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11147BFB-18A2-41D2-AD43-FC45208093D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11147BFB-18A2-41D2-AD43-FC45208093D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDEC975D-7226-4374-95A3-32F972A6BD6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDEC975D-7226-4374-95A3-32F972A6BD6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDEC975D-7226-4374-95A3-32F972A6BD6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDEC975D-7226-4374-95A3-32F972A6BD6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B075B261-8402-4F62-912C-782384151881}
+	EndGlobalSection
+EndGlobal
